@@ -39,7 +39,7 @@ I love experimenting with data, building smart solutions, and automating the bor
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## 📌 Feautured Projects
 
 - [**VentigesCaffee**](https://github.com/tunjayoff/ventigescaffee)  
   Vestiges Café, Paris'in kalbinde yer alan, artizan tatlılar, özel kahveler ve çiçeklerden ilham alan içecekler sunan şirin bir kafe için tasarlanmış modern ve şık bir web sitesidir.  
