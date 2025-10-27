@@ -27,23 +27,35 @@ I love experimenting with data, building smart solutions, and automating the bor
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-<!-- Add more relevant skills or tools here -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+<!-- Dilersen daha fazla ekleyebilirim -->
 
 ---
 
-## 📌 Featured Projects
+## 📌 Öne Çıkan Projeler
 
-<!-- Replace these examples with your real projects! -->
-- [**Awesome Data Analysis Project**](#)  
-  A project where I analyzed [some dataset] and visualized key insights using Python and Pandas.
-- [**Smart Automation Script**](#)  
-  Automated repetitive tasks, saving time and boosting productivity.
-- [**AI Demo App**](#)  
-  Built a simple machine learning model to predict [something interesting].
+- [**VentigesCaffee**](https://github.com/tunjayoff/ventigescaffee)  
+  Vestiges Café, Paris'in kalbinde yer alan, artizan tatlılar, özel kahveler ve çiçeklerden ilham alan içecekler sunan şirin bir kafe için tasarlanmış modern ve şık bir web sitesidir.  
+  <sub><sup><kbd>TypeScript</kbd> <kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>CSS</kbd></sup></sub>
+
+- [**AppImageManager**](https://github.com/tunjayoff/appimagemanager)  
+  Easily install, manage, and remove AppImage applications on Ubuntu 24.04, with full JSON-based multi-language support.  
+  <sub><sup><kbd>Python</kbd> <kbd>Shell</kbd> <kbd>Makefile</kbd></sup></sub>
+
+- [**PlayerAnalysis**](https://github.com/tunjayoff/PlayerAnalysis)  
+  Bu R projesi, Süper Lig futbolcu verilerini analiz etmek ve makine öğrenmesi modelleri geliştirmek için oluşturulmuştur. Tidyverse ile veri işleme ve görselleştirme, K-Means ile oyuncu kümelemesi ve Caret paketi kullanılarak geliştirilen bir KNN modeli ile oyuncu pozisyonlarının tahmini gibi analizleri içermektedir.  
+  <sub><sup><kbd>R</kbd></sup></sub>
+
+- [**SofaScore Scraper**](https://github.com/tunjayoff/sofascore_scraper)  
+  SofaScore Scraper, SofaScore'dan futbol maç verilerini çekmek, işlemek ve analiz etmek için geliştirilmiş kapsamlı bir Python uygulamasıdır. Esneklik ve veri bütünlüğüne odaklanarak araştırmacıların, futbol analistlerinin ve spor meraklılarının çoklu lig ve sezonlarda yapılandırılmış maç verilerine erişmesini sağlar.  
+  <sub><sup><kbd>Python</kbd></sup></sub>
 
 ---
 
@@ -51,6 +63,7 @@ I love experimenting with data, building smart solutions, and automating the bor
 
 - 🌐 [tuncayessiz.dev](https://tuncayessiz.dev)
 - [LinkedIn](https://www.linkedin.com/in/tuncayessiz/)
+- [Instagram](https://instagram.com/tunjayoff)
 - 📧 tuncay.essiz@outlook.com
 
 ---
