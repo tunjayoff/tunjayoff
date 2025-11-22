@@ -35,7 +35,6 @@ I love experimenting with data, building smart solutions, and automating the bor
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-<!-- Dilersen daha fazla ekleyebilirim -->
 
 ---
 
@@ -43,7 +42,7 @@ I love experimenting with data, building smart solutions, and automating the bor
 
 - [**Md2Rag**](https://github.com/tunjayoff/md_to_rag)  
   md2rag, Markdown dökümanlarınızı RAG (Retrieval Augmented Generation) sistemleri için hazır hale getiren modern bir CLI aracıdır. Tek bir komutla markdown'ınızı bölebilir, temizleyebilir, embedding'ler oluşturabilir ve doğrudan Qdrant vector database'e yükleyebilirsiniz.
-  <sub><sup><kbd>TypeScript</kbd> <kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>CSS</kbd></sup></sub>
+  <sub><sup><kbd>Qdrant</kbd> <kbd>Qwen-Embeddings</kbd> <kbd>Python</kbd> <kbd>RAG</kbd></sup></sub>
 
 - [**AppImageManager**](https://github.com/tunjayoff/appimagemanager)  
   Easily install, manage, and remove AppImage applications on Ubuntu 24.04, with full JSON-based multi-language support.  
