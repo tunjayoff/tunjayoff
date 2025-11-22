@@ -41,8 +41,8 @@ I love experimenting with data, building smart solutions, and automating the bor
 
 ## 📌 Feautured Projects
 
-- [**VentigesCaffee**](https://github.com/tunjayoff/ventigescaffee)  
-  Vestiges Café, Paris'in kalbinde yer alan, artizan tatlılar, özel kahveler ve çiçeklerden ilham alan içecekler sunan şirin bir kafe için tasarlanmış modern ve şık bir web sitesidir.  
+- [**Md2Rag**](https://github.com/tunjayoff/md_to_rag)  
+  md2rag, Markdown dökümanlarınızı RAG (Retrieval Augmented Generation) sistemleri için hazır hale getiren modern bir CLI aracıdır. Tek bir komutla markdown'ınızı bölebilir, temizleyebilir, embedding'ler oluşturabilir ve doğrudan Qdrant vector database'e yükleyebilirsiniz.
   <sub><sup><kbd>TypeScript</kbd> <kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>CSS</kbd></sup></sub>
 
 - [**AppImageManager**](https://github.com/tunjayoff/appimagemanager)  
