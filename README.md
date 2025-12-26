@@ -59,24 +59,12 @@ interests:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tunjayoff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tunjayoff&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tunjayoff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tunjayoff&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tunjayoff&layout=compact&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunjayoff&layout=compact&theme=tokyonight&hide_border=true"/>
-  </picture>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunjayoff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunjayoff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=tunjayoff&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=tunjayoff&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=tunjayoff&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tunjayoff&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
