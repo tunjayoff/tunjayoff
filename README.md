@@ -8,36 +8,37 @@ MIS graduate, Bakırçay University (2026) · İzmir, Turkey
 
 ## Featured
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tunjayoff/KBS-Sync"><img src="assets/kbs-sync.jpg" alt="KBS-Sync Android app: home and settings screens"></a>
-      <h3><a href="https://github.com/tunjayoff/KBS-Sync">KBS-Sync</a></h3>
-      Hotel identity reporting on the local network, with no required cloud service: an Android MRZ scanner, a Go agent on the reception PC and a Chrome extension.<br>
-      <sub>Go, Dart, Android, Chrome extension</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tunjayoff/sofascore_scraper"><img src="assets/sofascore.jpg" alt="SofaScore Scraper web app overview"></a>
-      <h3><a href="https://github.com/tunjayoff/sofascore_scraper">SofaScore Scraper</a></h3>
-      Self-hosted data platform for SofaScore match data in 21 sports. One core, used as a Python library, the <code>ssc</code> command line, or an HTTP API with a web app.<br>
-      <sub>Python, SQLite, Docker</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tunjayoff/gnome-better-clipboard"><img src="assets/better-clipboard.jpg" alt="Better Clipboard panel showing a code snippet preview"></a>
-      <h3><a href="https://github.com/tunjayoff/gnome-better-clipboard">Better Clipboard</a></h3>
-      Keyboard-first clipboard history for GNOME Shell. Opens at the pointer with Super+V, previews code, links, files and images, and keeps passwords out of history.<br>
-      <sub>GNOME Shell, JavaScript (GJS)</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tunjayoff/gnome-quick-tiles"><img src="assets/quick-tiles.jpg" alt="Quick Tiles edit mode inside the GNOME Quick Settings menu"></a>
-      <h3><a href="https://github.com/tunjayoff/gnome-quick-tiles">Quick Tiles</a></h3>
-      Edit the GNOME Quick Settings menu from inside the menu: drag to reorder, resize, hide and add tiles, plus custom tiles that run shell commands.<br>
-      <sub>GNOME Shell, JavaScript (GJS)</sub>
-    </td>
-  </tr>
-</table>
+### [KBS-Sync](https://github.com/tunjayoff/KBS-Sync)
+
+Hotel identity reporting on the local network, with no required cloud service: an Android MRZ scanner, a Go agent on the reception PC and a Chrome extension.
+
+<sub>Go, Dart, Android, Chrome extension</sub>
+
+<a href="https://github.com/tunjayoff/KBS-Sync"><img src="assets/kbs-sync.jpg" alt="KBS-Sync Android app: home and settings screens" width="640"></a>
+
+### [SofaScore Scraper](https://github.com/tunjayoff/sofascore_scraper)
+
+Self-hosted data platform for SofaScore match data in 21 sports. One core, used as a Python library, the `ssc` command line, or an HTTP API with a web app.
+
+<sub>Python, SQLite, Docker</sub>
+
+<a href="https://github.com/tunjayoff/sofascore_scraper"><img src="assets/sofascore.jpg" alt="SofaScore Scraper web app overview" width="640"></a>
+
+### [Better Clipboard](https://github.com/tunjayoff/gnome-better-clipboard)
+
+Keyboard-first clipboard history for GNOME Shell. Opens at the pointer with Super+V, previews code, links, files and images, and keeps passwords out of history.
+
+<sub>GNOME Shell, JavaScript (GJS)</sub>
+
+<a href="https://github.com/tunjayoff/gnome-better-clipboard"><img src="assets/better-clipboard.jpg" alt="Better Clipboard panel showing a code snippet preview" width="640"></a>
+
+### [Quick Tiles](https://github.com/tunjayoff/gnome-quick-tiles)
+
+Edit the GNOME Quick Settings menu from inside the menu: drag to reorder, resize, hide and add tiles, plus custom tiles that run shell commands.
+
+<sub>GNOME Shell, JavaScript (GJS)</sub>
+
+<a href="https://github.com/tunjayoff/gnome-quick-tiles"><img src="assets/quick-tiles.jpg" alt="Quick Tiles edit mode inside the GNOME Quick Settings menu" width="640"></a>
 
 ## More projects
 
